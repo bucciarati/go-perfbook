@@ -82,21 +82,6 @@ cgo:
     cgo performance tracking bug: https://github.com/golang/go/issues/9704
 
 videos:
-    https://gophervids.appspot.com/#tags=optimization
-        -- figure out which of these are specifically worth listing
-
-    "Profiling and Optimizng Go" (Uber)
-    https://www.youtube.com/watch?v=N3PWzBeLX2M
-
-    https://go-talks.appspot.com/github.com/davecheney/presentations/writing-high-performance-go.slide
-    https://www.youtube.com/watch?v=zWp0N9unJFc
-
-    Björn Rabenstein
-    https://docs.google.com/presentation/d/1Zu0BdbhMRar7ycEwDi8jepGokTXTDXlKFf7C13tusuI/edit
-    https://www.youtube.com/watch?v=ZuQcbqYK0BY
-
-    https://go-talks.appspot.com/github.com/mkevac/golangmoscow2016/gomeetup.slide
-
     CppCon 2014: Chandler Carruth "Efficiency with Algorithms, Performance with Data Structures"
     https://www.youtube.com/watch?v=fHNmRkzxHWs
 
